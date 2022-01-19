@@ -1,6 +1,0 @@
-#Cachorro Quente
-##pao 
-##salsicha
-
-
-
